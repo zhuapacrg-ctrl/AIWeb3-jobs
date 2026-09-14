@@ -21,8 +21,8 @@ assignees: ''
 **项目简介：**  
 [简要介绍公司、项目、产品或团队。]
 
-> For confidential / recruiter-managed roles, company information may be kept undisclosed.  
-> 对于保密招聘或猎头代理职位，可不公开客户公司名称及官网。
+> For confidential / recruiter-managed roles, company information may be kept undisclosed.  **(but the authenticity of the recruitment needs to be verified with the admin)**
+> 对于保密招聘或猎头代理职位，可不公开客户公司名称及官网。（但需要向管理员认证招聘的真实性）
 
 ---
 
@@ -83,6 +83,3 @@ assignees: ''
 
 Please include the **job title** in your application.  
 申请时请注明**职位名称**。
-
-> For confidential roles, client information will be disclosed to qualified candidates during the recruitment process.  
-> 对于保密招聘职位，客户信息将在候选人通过初步筛选后进一步沟通。
